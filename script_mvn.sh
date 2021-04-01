@@ -1,0 +1,2 @@
+cd ./samplejavacode
+mvn package
