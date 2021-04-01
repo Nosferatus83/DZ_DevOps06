@@ -1,4 +1,4 @@
 cd ./samplejavacode
 mvn package
 ls
-cp ./target/addressbook.war %CATALINA_HOME%/webapps/
+cp ./target/addressbook.war ./webapps
