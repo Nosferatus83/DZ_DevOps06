@@ -3,4 +3,6 @@
  
  Build: <docker build -t dz_webapp6 .>
 
- Run: <docker run -d -it --rm -p 80:80 webapp6_new>
+ Run: <docker run -d -it --rm -p 8080:8080 dz_webapp6>
+
+ Result: <http://ip-server:8080/addressbook/>

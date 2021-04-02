@@ -6,6 +6,4 @@ RUN git clone https://github.com/Vikas-tm/samplejavacode.git
 ADD script_mvn.sh ./
 RUN ./script_mvn.sh
 RUN cp ./samplejavacode/target/addressbook.war ./webapps
-RUN ls
-RUN ls ./webapps
 EXPOSE 8080
