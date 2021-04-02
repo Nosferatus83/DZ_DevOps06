@@ -1,5 +1,5 @@
 # Home work by DevOps practice №6
- create Docker<=tomcat<=WAR example
+ create Docker<=tomcat<=WAR example (Vikas-tm (C) https://github.com/Vikas-tm/samplejavacode.git)
  
  Build: <docker build -t dz_webapp6 .>
 
